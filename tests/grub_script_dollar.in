@@ -1,5 +1,0 @@
-#! /bin/sh -e
-
-@builddir@/grub-script-check << EOF
-echo "\\\$"
-EOF
